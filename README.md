@@ -21,4 +21,7 @@ Group Name:
 
 วิชานี้เรียน ...
 
-* บทที่ 1 [introduction](https://www.example.com)
+* บทที่ 1 [introduction](https://github.com/tohnperfect/DWDM21/blob/main/chapter1.md)
+  * นิยาม data mining
+  * ประเภท
+* บทที่ 2 .... 
