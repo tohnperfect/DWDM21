@@ -25,5 +25,10 @@ Group Name:
   * นิยาม data mining
   * ประเภท
 * บทที่ 2 know your data ประกอบไปด้วย 3 ส่วยย่อยคือ
-  * [ประเภทข้อมูล](https://github.com/tohnperfect/DWDM21/blob/main/Data101_(Chapter2).ipynb)
+  * [basic python](https://github.com/tohnperfect/DWDM21/blob/main/Data101_(Chapter2).ipynb)
+    * Casting
+    * Data structure 
+    * Loop
+    * Condition
+    * Function
   * pandas ...
